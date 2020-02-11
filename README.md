@@ -7,4 +7,4 @@
 
 ### 參考資料：
 * [ondryaso/pi-rc522](https://github.com/ondryaso/pi-rc522)
-* [MF1ICS50-Chapter 6)](http://www.worldnfc.com/chips/MF1ICS50_IC_datasheet.pdf)
+* [MF1ICS50-Chapter_6](http://www.worldnfc.com/chips/MF1ICS50_IC_datasheet.pdf)
