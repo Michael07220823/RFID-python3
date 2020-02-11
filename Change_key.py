@@ -41,7 +41,7 @@ while run:
         util.rewrite(4, [None, None, 0x69, 0x24, 0x40])
         util.read_out(4)
 	
-	    # Change Key-A and Key-B and access bits.
+	# Change Key-A and Key-B and access bits.
         util.write_trailer(1, (0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF), (0xFF, 0x07, 0x80), 105, (0x74, 0x00, 0x52, 0x35, 0x00, 0xFF))
         util.deauth()
 
