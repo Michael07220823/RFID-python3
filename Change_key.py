@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import signal
 import time
 import sys
