@@ -1,6 +1,6 @@
 # RFID-python3
 #### 相依套件安裝
-` pip install pi-rc522 spidev RPi.GPIO`
+` sudo pip3 install pi-rc522 spidev RPi.GPIO`
 
 #### 範例操作
 * 讀取
